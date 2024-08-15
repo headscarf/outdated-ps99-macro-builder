@@ -9,7 +9,7 @@ class ram():
         # web server
 
         self.port = 8983 
-        self.password = "Lord1001"
+        self.password = "YourPassForRamHere"
         
         self.url = f"http://localhost:{self.port}"
 
