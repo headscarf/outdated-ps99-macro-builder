@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+src/ps99auto.egg-info/PKG-INFO
+src/ps99auto.egg-info/SOURCES.txt
+src/ps99auto.egg-info/dependency_links.txt
+src/ps99auto.egg-info/not-zip-safe
+src/ps99auto.egg-info/top_level.txt
